@@ -23,3 +23,22 @@ This was done via visualizations with Tableau in order for others to better unde
 ## Checkout Times for Users
 
 ![Checkout_Times_for_Users](https://user-images.githubusercontent.com/8845050/178778914-fae8b1e0-be6d-48f2-a3b5-d67708bbf6fe.PNG)
+
+## Checkout Times by Gender
+
+![Checkout_Times_by_Gender](https://user-images.githubusercontent.com/8845050/178779073-523c3975-d0f3-4dec-b689-6f83b2e22a7a.PNG)
+
+## Trips by Weekday
+
+![Trips_by_Weekday_for_each_hour](https://user-images.githubusercontent.com/8845050/178780319-059e0ec3-55f8-4eff-bbf2-08a931d36800.PNG)
+
+## Trips by Gender (Weekday Per Hour)
+
+![Trips_by_Gender_weekday_per_hr](https://user-images.githubusercontent.com/8845050/178780369-21db150d-5e4a-4cbb-a7cc-2408b739c3b1.PNG)
+
+## User Trips by Gender by Weekday
+
+![User_Trips_By_Gender_by_Weekday](https://user-images.githubusercontent.com/8845050/178780533-c6351dee-692e-48f5-b1cc-9b41f3635431.PNG)
+
+
+
