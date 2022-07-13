@@ -40,5 +40,16 @@ This was done via visualizations with Tableau in order for others to better unde
 
 ![User_Trips_By_Gender_by_Weekday](https://user-images.githubusercontent.com/8845050/178780533-c6351dee-692e-48f5-b1cc-9b41f3635431.PNG)
 
+## Starting Locations
+
+![TOP_STARTING_LOCATIONS](https://user-images.githubusercontent.com/8845050/178792285-9ddcde83-3cd2-44dd-b38f-396b4c71af2f.PNG)
+
+## Create a Story
+
+For Deliverable 3, we created a story in Tableau which displayed insights and interpretations to the data/visualization that you have seen above, and supplements the baseline data to "bring it all together".
+
+## Story
+
+
 
 
