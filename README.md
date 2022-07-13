@@ -16,3 +16,10 @@ This was done via visualizations with Tableau in order for others to better unde
 
 ![Citibike_df](https://user-images.githubusercontent.com/8845050/178769097-814e0029-b1df-46fd-89a5-a3f2816f4ff1.PNG)
 
+## Create Visualizations for Trip Analysis
+
+![Peak_Hours](https://user-images.githubusercontent.com/8845050/178778093-9e509fa5-90ce-4115-b31e-628c143a030a.PNG)
+
+## Checkout Times for Users
+
+![Checkout_Times_for_Users](https://user-images.githubusercontent.com/8845050/178778914-fae8b1e0-be6d-48f2-a3b5-d67708bbf6fe.PNG)
