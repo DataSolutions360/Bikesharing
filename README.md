@@ -50,6 +50,16 @@ For Deliverable 3, we created a story in Tableau which displayed insights and in
 
 ## Story
 
+![story](https://user-images.githubusercontent.com/8845050/178803453-0464ebd5-8897-4b53-b3b6-ee7380953869.PNG)
 
+Based on the resulted gathered during the analysis, the data presents peak hours and some very correlated aspects, such as gender, commuter hours to/from work, and the day of the week.  This may be helpfuil when deciding what bike frame to offer, what PSI for tires to maintain, given the assumption that males weigh more than females, or even which gender prefers the current model of bike being offered now.
+
+### Peak Hours
+
+As expected, from 7am to 9am, commute TO work is probably the peak, as well as commuting FROM work(4pm to 6pm).  In addition, the majority of the bikes are not used for a very long time. Mainly just under 10 minutes which means that the users of the bikes most liekly live close to where they work but not too close where they can just walk (or they just choose to se the bikes regardless). During the week, the bikes are heavily used from Monday-Friday which also implies that the bikes are mainly used to help individuals get to and from work.
+
+### Other Aspects to Analyze
+
+In addition to having the data presented now. I beleive the information can be respresented in other ways as well. One visualization that comes to mind if a simple pie chart showing the percentages of the genders. Even though we already know that men are the majority of users in this dataset, it would be insightful to see how much (percetnage wise) they cover. Going off this first suggestion, another good visualization that can be used is another pie chart but instead of showing the gender, it can show the percentage of subscribers compared to customers. I made a graph showing the User Trips by Gender by Weekday which showes the subscriber in color shading form. having another pie chart showing the actual percentages of subscribers and customers can highlight the amount of subscribers across all genders and can help in showing the majority of the kinds of users.
 
 
